@@ -1,0 +1,27 @@
+Jul 29 2019 18:05:20
+{"type":2,"message":"preg_match(): JIT compilation failed: no more memory","file":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-includes\/formatting.php","line":5193}
+
+Jul 29 2019 18:05:21
+{"Number":2,"Message":"preg_replace(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":189}
+
+Jul 29 2019 18:05:29
+{"Number":2,"Message":"preg_replace(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":189}
+
+Jul 29 2019 18:05:32
+{"Number":2,"Message":"preg_match(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":819}
+
+Jul 29 2019 18:05:32
+{"Number":2,"Message":"preg_replace_callback(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1120}
+
+Jul 29 2019 18:05:33
+{"Number":2,"Message":"preg_match(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-includes\/formatting.php","Line":4584}
+
+Jul 29 2019 18:05:34
+{"Number":2,"Message":"preg_replace(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-includes\/wp-db.php","Line":3215}
+
+Jul 29 2019 18:05:34
+{"Number":2,"Message":"preg_match(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-includes\/wp-db.php","Line":3227}
+
+Jul 29 2019 18:05:34
+{"Number":2,"Message":"preg_replace(): JIT compilation failed: no more memory","File":"\/Users\/kulpreetsingh\/Downloads\/Portfolio\/wp-includes\/wp-db.php","Line":3042}
+
